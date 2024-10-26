@@ -1,6 +1,6 @@
 <h1 align="center">¡Hi! I'm ALvaro Jose Ibarra Fernandez <a> <br> <img aling="center" width="120" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9vZWhxNXE0bHU3N2Jsd2s1NTR0ZmxtcXRjZGZhN3dnaHQzNW5lbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.webp" /> <img aling="left" width="100" height="100" src="https://media.tenor.com/thF-4X-idtEAAAAi/hack-hacker.gif" /><img aling="right" width="100" height="100" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif" /></a></h1>
 
-<h3 align="center"> Tecnólogo en sistemas | Junior Web Developer | Passionate About Cybersecurity and IoT</h3>
+<h3 align="center"> Tecnólogo en sistemas | Junior Web Developer | Passionate About Cybersecurity, Robotics and IoT. </h3>
 
 # 💫 About Me:
 aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently learning ...<br>👯 I’m looking to collaborate on ...<br>🤔 I’m looking for help with ...<br>💬 Ask me about ...<br>📫 How to reach me: ...<br>😄 Pronouns: ...<br>⚡ Fun fact: ...
