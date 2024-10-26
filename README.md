@@ -19,8 +19,5 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroJose1357&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlvaroJose1357&theme=react&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlvaroJose1357&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AlvaroJose1357&icon=5&color=12)](https://visitcount.itsvg.in)
