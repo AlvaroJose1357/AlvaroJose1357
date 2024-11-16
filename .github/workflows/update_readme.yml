@@ -2,15 +2,18 @@ name: Update README
 
 on:
   schedule:
-            #dias horas minutos segundos microsegundos
-    - cron: '0 */12 * * *' # Cada 12 horas 
+    - cron: '0 */12 * * *' # Cada 12 horas
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
-  # construye lo que se le indique en esta mini maquina virtual
     runs-on: ubuntu-latest
     name: Update Profile README
+    env:
+      ACTIONS_STEP_DEBUG: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2.3.4
