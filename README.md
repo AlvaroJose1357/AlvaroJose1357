@@ -15,13 +15,8 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/755190069517746206) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alvarito_personal1357?igsh=d3hkajBncmI5OGg2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-jose-ibarra-fernandez-2a483a288) 
 
 ## :zap: Actividad Reciente
-<!--Start Section:activity-->
-
-<!--End Section:activity-->
-
-<!--Recent Section:last_update-->
-Last Update: Thursday, August 29th, 2024, 1:03:43 PM
-<!--End Section:last_update_end-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlvaroJose1357&theme=react&hide_border=false&include_all_commits=true&count_private=true)
