@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
-2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
-3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
-4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
-5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
+1. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/empresaTransportePIO](https://github.com/AlvaroJose1357/empresaTransportePIO)<br>
+2. 🎉 Merged PR [#5](https://github.com/AlvaroJose1357/empresaTransportePIO/pull/5) in [AlvaroJose1357/empresaTransportePIO](https://github.com/AlvaroJose1357/empresaTransportePIO)<br>
+3. 💪 Opened PR [#5](https://github.com/AlvaroJose1357/empresaTransportePIO/pull/5) in [AlvaroJose1357/empresaTransportePIO](https://github.com/AlvaroJose1357/empresaTransportePIO)<br>
+4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/empresaTransportePIO](https://github.com/AlvaroJose1357/empresaTransportePIO)<br>
+5. ⭐ Starred [AlvaroJose1357/empresaTransportePIO](https://github.com/AlvaroJose1357/empresaTransportePIO)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
