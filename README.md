@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
-2. 🎉 Merged PR [#12](https://github.com/AlvaroJose1357/Mini-hackaton/pull/12) in [AlvaroJose1357/Mini-hackaton](https://github.com/AlvaroJose1357/Mini-hackaton)<br>
-3. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/Mini-hackaton](https://github.com/AlvaroJose1357/Mini-hackaton)<br>
-4. 💪 Opened PR [#12](https://github.com/AlvaroJose1357/Mini-hackaton/pull/12) in [AlvaroJose1357/Mini-hackaton](https://github.com/AlvaroJose1357/Mini-hackaton)<br>
-5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Mini-hackaton](https://github.com/AlvaroJose1357/Mini-hackaton)<br>
+1. ⬆️ Pushed 1 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+2. 🎉 Merged PR [#4](https://github.com/ch3p3l1t0/Hackaton-RETO-2/pull/4) in [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+3. ⬆️ Pushed 2 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+4. 💪 Opened PR [#4](https://github.com/ch3p3l1t0/Hackaton-RETO-2/pull/4) in [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+5. ⬆️ Pushed 4 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
