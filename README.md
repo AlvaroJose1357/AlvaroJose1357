@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
-2. 🎉 Merged PR [#4](https://github.com/ch3p3l1t0/Hackaton-RETO-2/pull/4) in [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
-3. ⬆️ Pushed 2 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
-4. 💪 Opened PR [#4](https://github.com/ch3p3l1t0/Hackaton-RETO-2/pull/4) in [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
-5. ⬆️ Pushed 4 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+1. ⬆️ Pushed 2 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+2. 💪 Opened PR [#10](https://github.com/ch3p3l1t0/Hackaton-RETO-2/pull/10) in [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+3. ⬆️ Pushed 7 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+4. ⬆️ Pushed 4 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+5. 🎉 Merged PR [#9](https://github.com/ch3p3l1t0/Hackaton-RETO-2/pull/9) in [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
