@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
-2. ⬆️ Pushed 4 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
-3. ⬆️ Pushed 8 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
-4. 🎉 Merged PR [#10](https://github.com/ch3p3l1t0/Hackaton-RETO-2/pull/10) in [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
-5. ⬆️ Pushed 1 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+1. 📔 Created new repository [AlvaroJose1357/SalonSync](https://github.com/AlvaroJose1357/SalonSync)<br>
+2. ⭐ Starred [santigp258/software-engineering](https://github.com/santigp258/software-engineering)<br>
+3. ⭐ Starred [platzi/docker-avanzado](https://github.com/platzi/docker-avanzado)<br>
+4. ⭐ Starred [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
+5. ⬆️ Pushed 4 commit(s) to [ch3p3l1t0/Hackaton-RETO-2](https://github.com/ch3p3l1t0/Hackaton-RETO-2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
