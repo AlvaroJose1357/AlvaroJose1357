@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)<br>
-2. ⭐ Starred [Yonom/assistant-ui](https://github.com/Yonom/assistant-ui)<br>
-3. 📔 Created new repository [AlvaroJose1357/SalonSync_Backend](https://github.com/AlvaroJose1357/SalonSync_Backend)<br>
-4. 📔 Created new repository [AlvaroJose1357/SalonSync](https://github.com/AlvaroJose1357/SalonSync)<br>
-5. ⭐ Starred [santigp258/software-engineering](https://github.com/santigp258/software-engineering)<br>
+1. ⭐ Starred [infodp/next15-api-crud](https://github.com/infodp/next15-api-crud)<br>
+2. ⭐ Starred [infodp/nestJs-mongodb-api](https://github.com/infodp/nestJs-mongodb-api)<br>
+3. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)<br>
+4. ⭐ Starred [Yonom/assistant-ui](https://github.com/Yonom/assistant-ui)<br>
+5. 📔 Created new repository [AlvaroJose1357/SalonSync_Backend](https://github.com/AlvaroJose1357/SalonSync_Backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
