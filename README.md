@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [platzi/curso-sql](https://github.com/platzi/curso-sql)<br>
-2. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/SalonSync_Backend](https://github.com/AlvaroJose1357/SalonSync_Backend)<br>
-3. ⭐ Starred [infodp/next15-api-crud](https://github.com/infodp/next15-api-crud)<br>
-4. ⭐ Starred [infodp/nestJs-mongodb-api](https://github.com/infodp/nestJs-mongodb-api)<br>
-5. ⭐ Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)<br>
+1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
+2. ⭐ Starred [platzi/curso-sql](https://github.com/platzi/curso-sql)<br>
+3. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/SalonSync_Backend](https://github.com/AlvaroJose1357/SalonSync_Backend)<br>
+4. ⭐ Starred [infodp/next15-api-crud](https://github.com/infodp/next15-api-crud)<br>
+5. ⭐ Starred [infodp/nestJs-mongodb-api](https://github.com/infodp/nestJs-mongodb-api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
