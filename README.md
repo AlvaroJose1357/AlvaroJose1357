@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
-2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
-3. ⭐ Starred [platzi/curso-sql](https://github.com/platzi/curso-sql)<br>
-4. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/SalonSync_Backend](https://github.com/AlvaroJose1357/SalonSync_Backend)<br>
-5. ⭐ Starred [infodp/next15-api-crud](https://github.com/infodp/next15-api-crud)<br>
+1. ⭐ Starred [anaaragon88/book-api-fullstack](https://github.com/anaaragon88/book-api-fullstack)<br>
+2. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
+3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
+4. ⭐ Starred [platzi/curso-sql](https://github.com/platzi/curso-sql)<br>
+5. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/SalonSync_Backend](https://github.com/AlvaroJose1357/SalonSync_Backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
