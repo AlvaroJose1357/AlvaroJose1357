@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
-2. ⭐ Starred [anaaragon88/book-api-fullstack](https://github.com/anaaragon88/book-api-fullstack)<br>
-3. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
-4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
-5. ⭐ Starred [platzi/curso-sql](https://github.com/platzi/curso-sql)<br>
+1. ⭐ Starred [jeperea45/SalonSync_Hackaton](https://github.com/jeperea45/SalonSync_Hackaton)<br>
+2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
+3. ⭐ Starred [anaaragon88/book-api-fullstack](https://github.com/anaaragon88/book-api-fullstack)<br>
+4. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
+5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
