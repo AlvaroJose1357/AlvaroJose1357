@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)<br>
-2. ⭐ Starred [jeperea45/SalonSync_Hackaton](https://github.com/jeperea45/SalonSync_Hackaton)<br>
-3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
-4. ⭐ Starred [anaaragon88/book-api-fullstack](https://github.com/anaaragon88/book-api-fullstack)<br>
-5. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
+1. 🤝 Became collaborator on [AlvaroJose1357/Pick-Shop_Backend](https://github.com/AlvaroJose1357/Pick-Shop_Backend)<br>
+2. 🤝 Became collaborator on [AlvaroJose1357/Pick-Shop_Frontend](https://github.com/AlvaroJose1357/Pick-Shop_Frontend)<br>
+3. 📔 Created new repository [AlvaroJose1357/Pick-Shop_Backend](https://github.com/AlvaroJose1357/Pick-Shop_Backend)<br>
+4. 📔 Created new repository [AlvaroJose1357/Pick-Shop_Frontend](https://github.com/AlvaroJose1357/Pick-Shop_Frontend)<br>
+5. ⭐ Starred [Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
