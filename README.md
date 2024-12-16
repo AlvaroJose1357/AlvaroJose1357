@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 8 commit(s) to [AlvaroJose1357/Pick-Shop_Frontend](https://github.com/AlvaroJose1357/Pick-Shop_Frontend)<br>
-2. 🤝 Became collaborator on [AlvaroJose1357/Pick-Shop_Backend](https://github.com/AlvaroJose1357/Pick-Shop_Backend)<br>
-3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Pick-Shop_Backend](https://github.com/AlvaroJose1357/Pick-Shop_Backend)<br>
-4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Pick-Shop_Backend](https://github.com/AlvaroJose1357/Pick-Shop_Backend)<br>
-5. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Pick-Shop_Backend](https://github.com/AlvaroJose1357/Pick-Shop_Backend)<br>
+1. ⭐ Starred [Source-Controller/eCommerce-Fullstack](https://github.com/Source-Controller/eCommerce-Fullstack)<br>
+2. ⭐ Starred [stripe-archive/nextjs-typescript-react-stripe-js](https://github.com/stripe-archive/nextjs-typescript-react-stripe-js)<br>
+3. ⭐ Starred [roldanjr/next-crud](https://github.com/roldanjr/next-crud)<br>
+4. ⭐ Starred [hannan-siddiqui/NextJS-full-satck-Dashboard](https://github.com/hannan-siddiqui/NextJS-full-satck-Dashboard)<br>
+5. ⭐ Starred [mdiannibelli/cebate-uno](https://github.com/mdiannibelli/cebate-uno)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
