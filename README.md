@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Source-Controller/eCommerce-Fullstack](https://github.com/Source-Controller/eCommerce-Fullstack)<br>
-2. ⭐ Starred [stripe-archive/nextjs-typescript-react-stripe-js](https://github.com/stripe-archive/nextjs-typescript-react-stripe-js)<br>
-3. ⭐ Starred [roldanjr/next-crud](https://github.com/roldanjr/next-crud)<br>
-4. ⭐ Starred [hannan-siddiqui/NextJS-full-satck-Dashboard](https://github.com/hannan-siddiqui/NextJS-full-satck-Dashboard)<br>
-5. ⭐ Starred [mdiannibelli/cebate-uno](https://github.com/mdiannibelli/cebate-uno)<br>
+1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
+2. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
+3. ⭐ Starred [przemek-nowicki/node-express-template.ts](https://github.com/przemek-nowicki/node-express-template.ts)<br>
+4. ⭐ Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)<br>
+5. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
