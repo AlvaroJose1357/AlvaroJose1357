@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
-2. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
-3. ⭐ Starred [przemek-nowicki/node-express-template.ts](https://github.com/przemek-nowicki/node-express-template.ts)<br>
-4. ⭐ Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)<br>
-5. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/clima-react-typescript](https://github.com/AlvaroJose1357/clima-react-typescript)<br>
+1. 📔 Created new repository [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
+2. ⭐ Starred [burakorkmez/mern-ecommerce](https://github.com/burakorkmez/mern-ecommerce)<br>
+3. ⭐ Starred [burakorkmez/mern-ecommerce](https://github.com/burakorkmez/mern-ecommerce)<br>
+4. ⭐ Starred [safak/full-stack-blog](https://github.com/safak/full-stack-blog)<br>
+5. ⭐ Starred [safak/full-stack-school](https://github.com/safak/full-stack-school)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
