@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
-2. 📔 Created new repository [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
-3. ⭐ Starred [burakorkmez/mern-ecommerce](https://github.com/burakorkmez/mern-ecommerce)<br>
-4. ⭐ Starred [burakorkmez/mern-ecommerce](https://github.com/burakorkmez/mern-ecommerce)<br>
-5. ⭐ Starred [safak/full-stack-blog](https://github.com/safak/full-stack-blog)<br>
+1. ⭐ Starred [mdiannibelli/apirest-clean-architecture](https://github.com/mdiannibelli/apirest-clean-architecture)<br>
+2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
+3. ⭐ Starred [wei30172/nextauth-mongodb-typescript-example](https://github.com/wei30172/nextauth-mongodb-typescript-example)<br>
+4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
+5. 📔 Created new repository [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
