@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mdiannibelli/apirest-clean-architecture](https://github.com/mdiannibelli/apirest-clean-architecture)<br>
-2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
-3. ⭐ Starred [wei30172/nextauth-mongodb-typescript-example](https://github.com/wei30172/nextauth-mongodb-typescript-example)<br>
-4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
-5. 📔 Created new repository [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
+1. ⭐ Starred [aizeeein/website-admin-video](https://github.com/aizeeein/website-admin-video)<br>
+2. ⭐ Starred [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)<br>
+3. ⭐ Starred [bayhackplis1/downloader-py](https://github.com/bayhackplis1/downloader-py)<br>
+4. ⭐ Starred [mdiannibelli/apirest-clean-architecture](https://github.com/mdiannibelli/apirest-clean-architecture)<br>
+5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
