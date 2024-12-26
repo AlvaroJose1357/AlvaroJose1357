@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
-2. ⭐ Starred [mertthesamael/lalasia](https://github.com/mertthesamael/lalasia)<br>
-3. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
-4. ⭐ Starred [zedr/clean-code-python](https://github.com/zedr/clean-code-python)<br>
-5. ⭐ Starred [andersontr15/google-translate-api](https://github.com/andersontr15/google-translate-api)<br>
+1. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
+2. 📔 Created new repository [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
+3. ⬆️ Pushed 5 commit(s) to [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
+4. ⭐ Starred [mertthesamael/lalasia](https://github.com/mertthesamael/lalasia)<br>
+5. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Crypto_Quoter](https://github.com/AlvaroJose1357/Crypto_Quoter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
