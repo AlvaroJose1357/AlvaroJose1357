@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-2. ⭐ Starred [sahandghavidel/mern-auth](https://github.com/sahandghavidel/mern-auth)<br>
+1. ⭐ Starred [chaoocharles/complete-ecommerce-react-node](https://github.com/chaoocharles/complete-ecommerce-react-node)<br>
+2. ⭐ Starred [AhmedAlqurafi/next-auth-credentials](https://github.com/AhmedAlqurafi/next-auth-credentials)<br>
 3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-4. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-5. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
+4. ⭐ Starred [sahandghavidel/mern-auth](https://github.com/sahandghavidel/mern-auth)<br>
+5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
