@@ -17,10 +17,10 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-2. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-3. ⭐ Starred [patelvivekdev/AuthJs-Template](https://github.com/patelvivekdev/AuthJs-Template)<br>
-4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
+2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
+3. ⭐ Starred [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis)<br>
+4. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
+5. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
