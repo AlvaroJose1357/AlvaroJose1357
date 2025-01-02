@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-3. ⭐ Starred [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis)<br>
+1. ⭐ Starred [IgnaG-Dev/PokedexApp](https://github.com/IgnaG-Dev/PokedexApp)<br>
+2. ⭐ Starred [IgnaG-Dev/PokedexApp](https://github.com/IgnaG-Dev/PokedexApp)<br>
+3. ⭐ Starred [shanibider/ANASTACIA-MERN-ECOMMERCE](https://github.com/shanibider/ANASTACIA-MERN-ECOMMERCE)<br>
 4. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-5. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
+5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
