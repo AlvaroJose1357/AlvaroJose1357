@@ -16,11 +16,11 @@ aqui va el text<br>🔭 I’m currently working on ...<br>🌱 I’m currently l
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [IgnaG-Dev/PokedexApp](https://github.com/IgnaG-Dev/PokedexApp)<br>
-2. ⭐ Starred [IgnaG-Dev/PokedexApp](https://github.com/IgnaG-Dev/PokedexApp)<br>
-3. ⭐ Starred [shanibider/ANASTACIA-MERN-ECOMMERCE](https://github.com/shanibider/ANASTACIA-MERN-ECOMMERCE)<br>
-4. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
+1. ⬆️ Pushed 2 commit(s) to [SyntaxSquadOf/SalonSync_Frontend](https://github.com/SyntaxSquadOf/SalonSync_Frontend)<br>
+2. 🎉 Merged PR [#2](https://github.com/SyntaxSquadOf/SalonSync_Frontend/pull/2) in [SyntaxSquadOf/SalonSync_Frontend](https://github.com/SyntaxSquadOf/SalonSync_Frontend)<br>
+3. 💪 Opened PR [#2](https://github.com/SyntaxSquadOf/SalonSync_Frontend/pull/2) in [SyntaxSquadOf/SalonSync_Frontend](https://github.com/SyntaxSquadOf/SalonSync_Frontend)<br>
+4. ⬆️ Pushed 5 commit(s) to [SyntaxSquadOf/SalonSync_Frontend](https://github.com/SyntaxSquadOf/SalonSync_Frontend)<br>
+5. 💪 Opened PR [#1](https://github.com/SyntaxSquadOf/SalonSync_Frontend/pull/1) in [SyntaxSquadOf/SalonSync_Frontend](https://github.com/SyntaxSquadOf/SalonSync_Frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
