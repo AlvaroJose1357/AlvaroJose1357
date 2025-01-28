@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AlvaroJose1357/Event_Management](https://github.com/AlvaroJose1357/Event_Management)<br>
-2. ⭐ Starred [mdiannibelli/curso-node2024](https://github.com/mdiannibelli/curso-node2024)<br>
-3. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/ProductsAdministration_Backend](https://github.com/AlvaroJose1357/ProductsAdministration_Backend)<br>
+1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
+2. 📔 Created new repository [AlvaroJose1357/Event_Management](https://github.com/AlvaroJose1357/Event_Management)<br>
+3. ⭐ Starred [mdiannibelli/curso-node2024](https://github.com/mdiannibelli/curso-node2024)<br>
 4. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/ProductsAdministration_Backend](https://github.com/AlvaroJose1357/ProductsAdministration_Backend)<br>
-5. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/ProductsAdministration_Backend](https://github.com/AlvaroJose1357/ProductsAdministration_Backend)<br>
+5. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/ProductsAdministration_Backend](https://github.com/AlvaroJose1357/ProductsAdministration_Backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
