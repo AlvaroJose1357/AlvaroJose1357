@@ -18,8 +18,8 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Event_Management](https://github.com/AlvaroJose1357/Event_Management)<br>
-2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Event_Management](https://github.com/AlvaroJose1357/Event_Management)<br>
+1. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/ProductsAdministration_Frontend](https://github.com/AlvaroJose1357/ProductsAdministration_Frontend)<br>
+2. 📔 Created new repository [AlvaroJose1357/ProductsAdministration_Frontend](https://github.com/AlvaroJose1357/ProductsAdministration_Frontend)<br>
 3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Event_Management](https://github.com/AlvaroJose1357/Event_Management)<br>
 4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Event_Management](https://github.com/AlvaroJose1357/Event_Management)<br>
 5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/Event_Management](https://github.com/AlvaroJose1357/Event_Management)<br>
