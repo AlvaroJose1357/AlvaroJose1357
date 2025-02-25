@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 8 commit(s) to [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
-2. 🎉 Merged PR [#20](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend/pull/20) in [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
-3. 💪 Opened PR [#20](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend/pull/20) in [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
-5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/ProductsAdministration_Frontend](https://github.com/AlvaroJose1357/ProductsAdministration_Frontend)<br>
+1. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+2. ⬆️ Pushed 8 commit(s) to [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
+3. 🎉 Merged PR [#20](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend/pull/20) in [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
+4. 💪 Opened PR [#20](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend/pull/20) in [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
+5. ⬆️ Pushed 1 commit(s) to [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
