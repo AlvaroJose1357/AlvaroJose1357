@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
-2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Backend](https://github.com/AlvaroJose1357/DevTree_Backend)<br>
-3. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
-4. ⬆️ Pushed 8 commit(s) to [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
-5. 🎉 Merged PR [#20](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend/pull/20) in [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
+1. ⭐ Starred [ln-dev7/unique-transition-between-grid-and-list-views](https://github.com/ln-dev7/unique-transition-between-grid-and-list-views)<br>
+2. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Backend](https://github.com/AlvaroJose1357/DevTree_Backend)<br>
+4. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+5. ⬆️ Pushed 8 commit(s) to [SyntaxSquadOf/Pick-Shop_Frontend](https://github.com/SyntaxSquadOf/Pick-Shop_Frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
