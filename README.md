@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [platzi/curso-github-actions](https://github.com/platzi/curso-github-actions)<br>
-2. ⭐ Starred [platzi/curso-de-docker-fundamentos](https://github.com/platzi/curso-de-docker-fundamentos)<br>
-3. ⭐ Starred [AymenSakouhi/white-noise](https://github.com/AymenSakouhi/white-noise)<br>
-4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
-5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/docker_CI-CD](https://github.com/AlvaroJose1357/docker_CI-CD)<br>
+2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/docker_CI-CD](https://github.com/AlvaroJose1357/docker_CI-CD)<br>
+3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/docker_CI-CD](https://github.com/AlvaroJose1357/docker_CI-CD)<br>
+4. 📔 Created new repository [AlvaroJose1357/docker_CI-CD](https://github.com/AlvaroJose1357/docker_CI-CD)<br>
+5. ⭐ Starred [platzi/docker-avanzado](https://github.com/platzi/docker-avanzado)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
