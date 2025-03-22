@@ -18,9 +18,9 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [martina-pauer/PAUER_DATA](https://github.com/martina-pauer/PAUER_DATA)<br>
-2. ⭐ Starred [goncy/next-mercadopago](https://github.com/goncy/next-mercadopago)<br>
-3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/docker_CI-CD](https://github.com/AlvaroJose1357/docker_CI-CD)<br>
+1. ⭐ Starred [crisbusquets/aprende-diseno-uxui](https://github.com/crisbusquets/aprende-diseno-uxui)<br>
+2. ⭐ Starred [martina-pauer/PAUER_DATA](https://github.com/martina-pauer/PAUER_DATA)<br>
+3. ⭐ Starred [goncy/next-mercadopago](https://github.com/goncy/next-mercadopago)<br>
 4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/docker_CI-CD](https://github.com/AlvaroJose1357/docker_CI-CD)<br>
 5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/docker_CI-CD](https://github.com/AlvaroJose1357/docker_CI-CD)<br>
 <!--RECENT_ACTIVITY:end-->
