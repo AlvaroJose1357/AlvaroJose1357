@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [crisbusquets/aprende-diseno-uxui](https://github.com/crisbusquets/aprende-diseno-uxui)<br>
-2. ⭐ Starred [martina-pauer/PAUER_DATA](https://github.com/martina-pauer/PAUER_DATA)<br>
-3. ⭐ Starred [goncy/next-mercadopago](https://github.com/goncy/next-mercadopago)<br>
-4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/docker_CI-CD](https://github.com/AlvaroJose1357/docker_CI-CD)<br>
-5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/docker_CI-CD](https://github.com/AlvaroJose1357/docker_CI-CD)<br>
+1. ⭐ Starred [rodrigo2392/typescript-backend](https://github.com/rodrigo2392/typescript-backend)<br>
+2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+3. ⭐ Starred [crisbusquets/aprende-diseno-uxui](https://github.com/crisbusquets/aprende-diseno-uxui)<br>
+4. ⭐ Starred [martina-pauer/PAUER_DATA](https://github.com/martina-pauer/PAUER_DATA)<br>
+5. ⭐ Starred [goncy/next-mercadopago](https://github.com/goncy/next-mercadopago)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
