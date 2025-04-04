@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)<br>
-2. ⭐ Starred [sumanmalakar/MERN_E_Commerce_Frontend_YouTube](https://github.com/sumanmalakar/MERN_E_Commerce_Frontend_YouTube)<br>
-3. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
-4. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/DevTree_Backend](https://github.com/AlvaroJose1357/DevTree_Backend)<br>
-5. ⭐ Starred [sainikhil1605/Hospital-Management-System-MERN-Stack](https://github.com/sainikhil1605/Hospital-Management-System-MERN-Stack)<br>
+1. ⬆️ Pushed 4 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+2. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)<br>
+3. ⭐ Starred [sumanmalakar/MERN_E_Commerce_Frontend_YouTube](https://github.com/sumanmalakar/MERN_E_Commerce_Frontend_YouTube)<br>
+4. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+5. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/DevTree_Backend](https://github.com/AlvaroJose1357/DevTree_Backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
