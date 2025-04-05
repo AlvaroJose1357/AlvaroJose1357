@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
-2. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)<br>
-3. ⭐ Starred [sumanmalakar/MERN_E_Commerce_Frontend_YouTube](https://github.com/sumanmalakar/MERN_E_Commerce_Frontend_YouTube)<br>
-4. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
-5. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/DevTree_Backend](https://github.com/AlvaroJose1357/DevTree_Backend)<br>
+1. ⭐ Starred [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
+2. ⬆️ Pushed 4 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Backend](https://github.com/AlvaroJose1357/DevTree_Backend)<br>
+4. ⬆️ Pushed 4 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+5. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
