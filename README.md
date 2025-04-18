@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [angelomarangon/anma-medical-frontend](https://github.com/angelomarangon/anma-medical-frontend)<br>
-2. ⭐ Starred [LIDR-academy/AI4Devs-pipeline-solved](https://github.com/LIDR-academy/AI4Devs-pipeline-solved)<br>
-3. ⭐ Starred [GianpaulCustodio/HackeMusic](https://github.com/GianpaulCustodio/HackeMusic)<br>
-4. ⭐ Starred [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
-5. ⬆️ Pushed 4 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+1. ⭐ Starred [JohanBoDev/react-proyectos](https://github.com/JohanBoDev/react-proyectos)<br>
+2. ⭐ Starred [angelomarangon/anma-medical-frontend](https://github.com/angelomarangon/anma-medical-frontend)<br>
+3. ⭐ Starred [LIDR-academy/AI4Devs-pipeline-solved](https://github.com/LIDR-academy/AI4Devs-pipeline-solved)<br>
+4. ⭐ Starred [GianpaulCustodio/HackeMusic](https://github.com/GianpaulCustodio/HackeMusic)<br>
+5. ⭐ Starred [aminespinoza10/El-camino-de-DevOps](https://github.com/aminespinoza10/El-camino-de-DevOps)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
