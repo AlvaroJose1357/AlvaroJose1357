@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Backend](https://github.com/AlvaroJose1357/DevTree_Backend)<br>
-2. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
-3. ⬆️ Pushed 6 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
-4. ⭐ Starred [platzi/nextjs-14](https://github.com/platzi/nextjs-14)<br>
-5. ⭐ Starred [Villa-Tradicion/Villa-Tradicion-launcher](https://github.com/Villa-Tradicion/Villa-Tradicion-launcher)<br>
+1. ⭐ Starred [JohanBoDev/mini-pruebas-fullstack](https://github.com/JohanBoDev/mini-pruebas-fullstack)<br>
+2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Backend](https://github.com/AlvaroJose1357/DevTree_Backend)<br>
+3. ⬆️ Pushed 2 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+4. ⬆️ Pushed 6 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+5. ⭐ Starred [platzi/nextjs-14](https://github.com/platzi/nextjs-14)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
