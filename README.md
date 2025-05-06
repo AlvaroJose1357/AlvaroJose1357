@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)<br>
-2. ⭐ Starred [midudev/cursoreact.dev](https://github.com/midudev/cursoreact.dev)<br>
-3. ⭐ Starred [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)<br>
-4. ⭐ Starred [midudev/curso-tailwind-abril-2025](https://github.com/midudev/curso-tailwind-abril-2025)<br>
-5. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
+1. ⭐ Starred [rodrigo2392/typescript-backend](https://github.com/rodrigo2392/typescript-backend)<br>
+2. ⭐ Starred [midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)<br>
+3. ⭐ Starred [midudev/cursoreact.dev](https://github.com/midudev/cursoreact.dev)<br>
+4. ⭐ Starred [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)<br>
+5. ⭐ Starred [midudev/curso-tailwind-abril-2025](https://github.com/midudev/curso-tailwind-abril-2025)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
