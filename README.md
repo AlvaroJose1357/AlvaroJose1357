@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cardotrejos/cursor-workshop](https://github.com/cardotrejos/cursor-workshop)<br>
-2. ⭐ Starred [rodrigo2392/typescript-backend](https://github.com/rodrigo2392/typescript-backend)<br>
-3. ⭐ Starred [midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)<br>
-4. ⭐ Starred [midudev/cursoreact.dev](https://github.com/midudev/cursoreact.dev)<br>
-5. ⭐ Starred [midudev/tailwind-animations](https://github.com/midudev/tailwind-animations)<br>
+1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+4. ⬆️ Pushed 5 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Backend](https://github.com/AlvaroJose1357/DevTree_Backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
