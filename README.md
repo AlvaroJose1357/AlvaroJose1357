@@ -26,9 +26,13 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 <!--RECENT_ACTIVITY:end-->
 
 # 📊 GitHub Stats:
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlvaroJose1357.AlvaroJose1357" />
+
 ![](https://github-readme-stats.vercel.app/api?username=AlvaroJose1357&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroJose1357&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlvaroJose1357&theme=react&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlvaroJose1357&icon=5&color=12)](https://visitcount.itsvg.in)
+
+Hola
