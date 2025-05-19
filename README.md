@@ -24,7 +24,7 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
 5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
 <!--RECENT_ACTIVITY:end-->
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake.svg" /> 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
 
 # 📊 GitHub Stats:
