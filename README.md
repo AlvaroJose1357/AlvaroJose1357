@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [2.0](https://github.com/AlvaroJose1357/Beverage_Finder/releases/tag/2.0) in [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-2. ✌️ Released [1.0](https://github.com/AlvaroJose1357/Beverage_Finder/releases/tag/1.0) in [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-3. ⬆️ Pushed 5 commit(s) to [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
-4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
-5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/DevTree_Frontend](https://github.com/AlvaroJose1357/DevTree_Frontend)<br>
+1. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
+2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
+3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
+4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
+5. ✌️ Released [2.0](https://github.com/AlvaroJose1357/Beverage_Finder/releases/tag/2.0) in [AlvaroJose1357/Beverage_Finder](https://github.com/AlvaroJose1357/Beverage_Finder)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
