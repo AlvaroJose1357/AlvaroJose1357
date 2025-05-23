@@ -18,10 +18,10 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JohanBoDev/crud-productos-react](https://github.com/JohanBoDev/crud-productos-react)<br>
-2. ⭐ Starred [fernandokbs/masterclass-actions](https://github.com/fernandokbs/masterclass-actions)<br>
-3. ⭐ Starred [lauriskuznecovs/next-js-jwt](https://github.com/lauriskuznecovs/next-js-jwt)<br>
-4. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
+1. ⭐ Starred [Sushil787/Hospital-management-system-MERN-stack](https://github.com/Sushil787/Hospital-management-system-MERN-stack)<br>
+2. ⭐ Starred [JohanBoDev/crud-productos-react](https://github.com/JohanBoDev/crud-productos-react)<br>
+3. ⭐ Starred [fernandokbs/masterclass-actions](https://github.com/fernandokbs/masterclass-actions)<br>
+4. ⭐ Starred [lauriskuznecovs/next-js-jwt](https://github.com/lauriskuznecovs/next-js-jwt)<br>
 5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
