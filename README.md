@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
-2. ⭐ Starred [Sushil787/Hospital-management-system-MERN-stack](https://github.com/Sushil787/Hospital-management-system-MERN-stack)<br>
-3. ⭐ Starred [JohanBoDev/crud-productos-react](https://github.com/JohanBoDev/crud-productos-react)<br>
-4. ⭐ Starred [fernandokbs/masterclass-actions](https://github.com/fernandokbs/masterclass-actions)<br>
-5. ⭐ Starred [lauriskuznecovs/next-js-jwt](https://github.com/lauriskuznecovs/next-js-jwt)<br>
+1. 📔 Created new repository [AlvaroJose1357/UpTask_Frontend](https://github.com/AlvaroJose1357/UpTask_Frontend)<br>
+2. ⭐ Starred [wtchnm/Vitamin](https://github.com/wtchnm/Vitamin)<br>
+3. 📔 Created new repository [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+4. ⭐ Starred [Sushil787/Hospital-management-system-MERN-stack](https://github.com/Sushil787/Hospital-management-system-MERN-stack)<br>
+5. ⭐ Starred [JohanBoDev/crud-productos-react](https://github.com/JohanBoDev/crud-productos-react)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
