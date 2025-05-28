@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AymenSakouhi/next.js-fundamentals](https://github.com/AymenSakouhi/next.js-fundamentals)<br>
-2. 📔 Created new repository [AlvaroJose1357/UpTask_Frontend](https://github.com/AlvaroJose1357/UpTask_Frontend)<br>
-3. ⭐ Starred [wtchnm/Vitamin](https://github.com/wtchnm/Vitamin)<br>
-4. 📔 Created new repository [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
-5. ⭐ Starred [Sushil787/Hospital-management-system-MERN-stack](https://github.com/Sushil787/Hospital-management-system-MERN-stack)<br>
+1. 📔 Created new repository [AlvaroJose1357/ejemplo_template](https://github.com/AlvaroJose1357/ejemplo_template)<br>
+2. ⭐ Starred [AymenSakouhi/next.js-fundamentals](https://github.com/AymenSakouhi/next.js-fundamentals)<br>
+3. 📔 Created new repository [AlvaroJose1357/UpTask_Frontend](https://github.com/AlvaroJose1357/UpTask_Frontend)<br>
+4. ⭐ Starred [wtchnm/Vitamin](https://github.com/wtchnm/Vitamin)<br>
+5. 📔 Created new repository [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
