@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eduardogpg/actions-codigofacilito](https://github.com/eduardogpg/actions-codigofacilito)<br>
-2. ⭐ Starred [CarlosR99/laravel-mailblaster](https://github.com/CarlosR99/laravel-mailblaster)<br>
-3. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)<br>
-4. 📔 Created new repository [AlvaroJose1357/ejemplo_template](https://github.com/AlvaroJose1357/ejemplo_template)<br>
-5. ⭐ Starred [AymenSakouhi/next.js-fundamentals](https://github.com/AymenSakouhi/next.js-fundamentals)<br>
+1. ⭐ Starred [Barata-Ribeiro/vite-vanilla-js-template](https://github.com/Barata-Ribeiro/vite-vanilla-js-template)<br>
+2. ⭐ Starred [eduardogpg/actions-codigofacilito](https://github.com/eduardogpg/actions-codigofacilito)<br>
+3. ⭐ Starred [CarlosR99/laravel-mailblaster](https://github.com/CarlosR99/laravel-mailblaster)<br>
+4. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)<br>
+5. 📔 Created new repository [AlvaroJose1357/ejemplo_template](https://github.com/AlvaroJose1357/ejemplo_template)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
