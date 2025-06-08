@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [roxsross/devops-books-onfire](https://github.com/roxsross/devops-books-onfire)<br>
-2. ⭐ Starred [roxsross/roxs-devops-project90](https://github.com/roxsross/roxs-devops-project90)<br>
-3. ⭐ Starred [JohanBoDev/prueba-tecnica-tree-sas](https://github.com/JohanBoDev/prueba-tecnica-tree-sas)<br>
-4. ⭐ Starred [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)<br>
-5. ⭐ Starred [Barata-Ribeiro/vite-vanilla-js-template](https://github.com/Barata-Ribeiro/vite-vanilla-js-template)<br>
+1. ⭐ Starred [fernandokbs3/fernandokbs3.github.io](https://github.com/fernandokbs3/fernandokbs3.github.io)<br>
+2. ⭐ Starred [Zitr-ctrl/S9-TALLER_5](https://github.com/Zitr-ctrl/S9-TALLER_5)<br>
+3. ⭐ Starred [DragonJAR/n8n-workflows-es](https://github.com/DragonJAR/n8n-workflows-es)<br>
+4. ⭐ Starred [fernandokbs/bootcamp-actions-cf](https://github.com/fernandokbs/bootcamp-actions-cf)<br>
+5. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
