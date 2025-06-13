@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
-2. 📔 Created new repository [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
-3. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/EjemploGithubActions](https://github.com/AlvaroJose1357/EjemploGithubActions)<br>
-4. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/EjemploGithubActions](https://github.com/AlvaroJose1357/EjemploGithubActions)<br>
-5. 📔 Created new repository [AlvaroJose1357/EjemploGithubActions](https://github.com/AlvaroJose1357/EjemploGithubActions)<br>
+1. ⭐ Starred [AlbertHernandez/typescript-library-template](https://github.com/AlbertHernandez/typescript-library-template)<br>
+2. ⭐ Starred [AlbertHernandez/nestjs-service-template](https://github.com/AlbertHernandez/nestjs-service-template)<br>
+3. ⭐ Starred [AlbertHernandez/express-typescript-service-template](https://github.com/AlbertHernandez/express-typescript-service-template)<br>
+4. ⭐ Starred [AlbertHernandez/github-action-nodejs-template](https://github.com/AlbertHernandez/github-action-nodejs-template)<br>
+5. ⬆️ Pushed 2 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
