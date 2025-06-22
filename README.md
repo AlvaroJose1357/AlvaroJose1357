@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [roxsross/devops-static-web](https://github.com/roxsross/devops-static-web)<br>
-2. ⭐ Starred [The-Enigma-Casino/The-Enigma-Casino](https://github.com/The-Enigma-Casino/The-Enigma-Casino)<br>
-3. ⭐ Starred [vinibgoulart/swc-express-typescript](https://github.com/vinibgoulart/swc-express-typescript)<br>
-4. ⭐ Starred [olegkron/node-ts-api-template](https://github.com/olegkron/node-ts-api-template)<br>
-5. ⭐ Starred [ljlm0402/typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter)<br>
+1. ⭐ Starred [kevin-quintero110/MoradasyStore](https://github.com/kevin-quintero110/MoradasyStore)<br>
+2. ⭐ Starred [roxsross/devops-static-web](https://github.com/roxsross/devops-static-web)<br>
+3. ⭐ Starred [The-Enigma-Casino/The-Enigma-Casino](https://github.com/The-Enigma-Casino/The-Enigma-Casino)<br>
+4. ⭐ Starred [vinibgoulart/swc-express-typescript](https://github.com/vinibgoulart/swc-express-typescript)<br>
+5. ⭐ Starred [olegkron/node-ts-api-template](https://github.com/olegkron/node-ts-api-template)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
