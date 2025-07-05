@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui)<br>
-2. ⭐ Starred [Mateo-Alvarez1/Auth](https://github.com/Mateo-Alvarez1/Auth)<br>
-3. ⭐ Starred [Mateo-Alvarez1/OAuth](https://github.com/Mateo-Alvarez1/OAuth)<br>
-4. ⭐ Starred [masadjie/master-rbac-api](https://github.com/masadjie/master-rbac-api)<br>
-5. ⬆️ Pushed 1 commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
+1. ⭐ Starred [Almudena-Rendon/hooks-react19](https://github.com/Almudena-Rendon/hooks-react19)<br>
+2. ⭐ Starred [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui)<br>
+3. ⭐ Starred [Mateo-Alvarez1/Auth](https://github.com/Mateo-Alvarez1/Auth)<br>
+4. ⭐ Starred [Mateo-Alvarez1/OAuth](https://github.com/Mateo-Alvarez1/OAuth)<br>
+5. ⭐ Starred [masadjie/master-rbac-api](https://github.com/masadjie/master-rbac-api)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
