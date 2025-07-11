@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DickyMacias/GitHub-Certifications](https://github.com/DickyMacias/GitHub-Certifications)<br>
-2. ⭐ Starred [pdsuwwz/nextjs-nextra-starter](https://github.com/pdsuwwz/nextjs-nextra-starter)<br>
-3. ⭐ Starred [Almudena-Rendon/hooks-react19](https://github.com/Almudena-Rendon/hooks-react19)<br>
-4. ⭐ Starred [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui)<br>
-5. ⭐ Starred [Mateo-Alvarez1/Auth](https://github.com/Mateo-Alvarez1/Auth)<br>
+1. ⭐ Starred [mouredev/hello-bash-shell](https://github.com/mouredev/hello-bash-shell)<br>
+2. ⭐ Starred [gihanrangana/vite-express-ssr-ts](https://github.com/gihanrangana/vite-express-ssr-ts)<br>
+3. ⭐ Starred [DickyMacias/GitHub-Certifications](https://github.com/DickyMacias/GitHub-Certifications)<br>
+4. ⭐ Starred [pdsuwwz/nextjs-nextra-starter](https://github.com/pdsuwwz/nextjs-nextra-starter)<br>
+5. ⭐ Starred [Almudena-Rendon/hooks-react19](https://github.com/Almudena-Rendon/hooks-react19)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
