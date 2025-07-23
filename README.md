@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GianellaVezzoni/bun-api-example](https://github.com/GianellaVezzoni/bun-api-example)<br>
-2. ⬆️ Pushed 2 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
-3. ⭐ Starred [jaimeirazabal1/Pizza-Tracker-API](https://github.com/jaimeirazabal1/Pizza-Tracker-API)<br>
-4. ⭐ Starred [mouredev/hello-bash-shell](https://github.com/mouredev/hello-bash-shell)<br>
-5. ⭐ Starred [gihanrangana/vite-express-ssr-ts](https://github.com/gihanrangana/vite-express-ssr-ts)<br>
+1. ⬆️ Pushed 2 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+2. ⭐ Starred [GianellaVezzoni/bun-api-example](https://github.com/GianellaVezzoni/bun-api-example)<br>
+3. ⬆️ Pushed 2 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+4. ⭐ Starred [jaimeirazabal1/Pizza-Tracker-API](https://github.com/jaimeirazabal1/Pizza-Tracker-API)<br>
+5. ⭐ Starred [mouredev/hello-bash-shell](https://github.com/mouredev/hello-bash-shell)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
