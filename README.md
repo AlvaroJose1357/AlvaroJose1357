@@ -18,10 +18,10 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
-2. ⭐ Starred [michaelcardoza/aprende-go-con-tests](https://github.com/michaelcardoza/aprende-go-con-tests)<br>
-3. ⬆️ Pushed 2 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
-4. ⭐ Starred [GianellaVezzoni/bun-api-example](https://github.com/GianellaVezzoni/bun-api-example)<br>
+1. ⬆️ Pushed 1 commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
+2. ⬆️ Pushed 1 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+3. ⬆️ Pushed 3 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+4. ⭐ Starred [michaelcardoza/aprende-go-con-tests](https://github.com/michaelcardoza/aprende-go-con-tests)<br>
 5. ⬆️ Pushed 2 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
