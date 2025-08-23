@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dsherret/ts-morph](https://github.com/dsherret/ts-morph)<br>
-2. ⭐ Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)<br>
-3. ⭐ Starred [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)<br>
-4. ⭐ Starred [abouroubi/nestjs-auth-jwt](https://github.com/abouroubi/nestjs-auth-jwt)<br>
-5. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+1. ⭐ Starred [iangelmanuel/quiosco-app-next](https://github.com/iangelmanuel/quiosco-app-next)<br>
+2. ⭐ Starred [dsherret/ts-morph](https://github.com/dsherret/ts-morph)<br>
+3. ⭐ Starred [nextjs/saas-starter](https://github.com/nextjs/saas-starter)<br>
+4. ⭐ Starred [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)<br>
+5. ⭐ Starred [abouroubi/nestjs-auth-jwt](https://github.com/abouroubi/nestjs-auth-jwt)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
