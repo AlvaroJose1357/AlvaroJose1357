@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Elisaelias02/sat_hacker_tool](https://github.com/Elisaelias02/sat_hacker_tool)<br>
-2. ⭐ Starred [serome111/PortWatch](https://github.com/serome111/PortWatch)<br>
-3. ⬆️ Pushed 2 commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
-4. 🎉 Merged PR [#13](https://github.com/SyntaxSquadOf/Vortex/pull/13) in [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
-5. ⭐ Starred [jaimeirazabal1/microservicios-base-nestjs](https://github.com/jaimeirazabal1/microservicios-base-nestjs)<br>
+1. ⬆️ Pushed 4 commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+2. ⬆️ Pushed 1 commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+3. ⬆️ Pushed 1 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+4. ⬆️ Pushed 1 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+5. ⬆️ Pushed 2 commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
