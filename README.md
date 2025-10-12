@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [midudev/jscamp](https://github.com/midudev/jscamp)<br>
-2. ⭐ Starred [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)<br>
-3. ⭐ Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)<br>
-4. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
-5. 🎉 Merged PR [#11](https://github.com/AlvaroJose1357/UpTask_Backend/pull/11) in [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+1. ⬆️ Pushed 4 commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+2. ⬆️ Pushed 3 commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+3. ⭐ Starred [midudev/jscamp](https://github.com/midudev/jscamp)<br>
+4. ⭐ Starred [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates)<br>
+5. ⭐ Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
