@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mouredev/hello-bash-shell](https://github.com/mouredev/hello-bash-shell)<br>
-2. ⭐ Starred [midudev/aprendiendo-react](https://github.com/midudev/aprendiendo-react)<br>
-3. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+1. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)<br>
+2. ⭐ Starred [mouredev/hello-bash-shell](https://github.com/mouredev/hello-bash-shell)<br>
+3. ⭐ Starred [midudev/aprendiendo-react](https://github.com/midudev/aprendiendo-react)<br>
 4. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
-5. ⭐ Starred [midudev/jscamp](https://github.com/midudev/jscamp)<br>
+5. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
