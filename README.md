@@ -18,9 +18,9 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+1. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
 2. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
-3. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
+3. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
 4. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
 5. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
 <!--RECENT_ACTIVITY:end-->
