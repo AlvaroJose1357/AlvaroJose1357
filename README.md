@@ -18,10 +18,10 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fazt/blog-api-production-node](https://github.com/fazt/blog-api-production-node)<br>
-2. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
-3. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
-4. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+1. ⭐ Starred [AlessandroHACK/Wallety-backend](https://github.com/AlessandroHACK/Wallety-backend)<br>
+2. ⭐ Starred [fazt/blog-api-production-node](https://github.com/fazt/blog-api-production-node)<br>
+3. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+4. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
 5. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
