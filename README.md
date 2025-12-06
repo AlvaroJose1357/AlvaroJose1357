@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SebaGarea/Costify-BackEnd](https://github.com/SebaGarea/Costify-BackEnd)<br>
-2. ⭐ Starred [CarlosZubilete/Api-Todo](https://github.com/CarlosZubilete/Api-Todo)<br>
-3. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)<br>
-4. ⭐ Starred [Siphon880gh/n8n-templates](https://github.com/Siphon880gh/n8n-templates)<br>
-5. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+2. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
+3. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+4. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
+5. ⭐ Starred [SebaGarea/Costify-BackEnd](https://github.com/SebaGarea/Costify-BackEnd)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
