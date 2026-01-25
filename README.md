@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Cristiancano1236/sistema-parqueadero](https://github.com/Cristiancano1236/sistema-parqueadero)<br>
-2. ⭐ Starred [raulcastillabravo/mve-collection](https://github.com/raulcastillabravo/mve-collection)<br>
-3. ⭐ Starred [GinoRobla/proyectos-personales](https://github.com/GinoRobla/proyectos-personales)<br>
-4. ⭐ Starred [infodp/api_node_typescript](https://github.com/infodp/api_node_typescript)<br>
-5. ⭐ Starred [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion)<br>
+1. ⭐ Starred [Zeeshu911/MERN-Stack-Hospital-Management-System-Web-Application](https://github.com/Zeeshu911/MERN-Stack-Hospital-Management-System-Web-Application)<br>
+2. ⭐ Starred [Cristiancano1236/sistema-parqueadero](https://github.com/Cristiancano1236/sistema-parqueadero)<br>
+3. ⭐ Starred [raulcastillabravo/mve-collection](https://github.com/raulcastillabravo/mve-collection)<br>
+4. ⭐ Starred [GinoRobla/proyectos-personales](https://github.com/GinoRobla/proyectos-personales)<br>
+5. ⭐ Starred [infodp/api_node_typescript](https://github.com/infodp/api_node_typescript)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
