@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Zeeshu911/MERN-Stack-Hospital-Management-System-Web-Application](https://github.com/Zeeshu911/MERN-Stack-Hospital-Management-System-Web-Application)<br>
-2. ⭐ Starred [Cristiancano1236/sistema-parqueadero](https://github.com/Cristiancano1236/sistema-parqueadero)<br>
-3. ⭐ Starred [raulcastillabravo/mve-collection](https://github.com/raulcastillabravo/mve-collection)<br>
-4. ⭐ Starred [GinoRobla/proyectos-personales](https://github.com/GinoRobla/proyectos-personales)<br>
-5. ⭐ Starred [infodp/api_node_typescript](https://github.com/infodp/api_node_typescript)<br>
+1. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
+2. ⭐ Starred [Zeeshu911/MERN-Stack-Hospital-Management-System-Web-Application](https://github.com/Zeeshu911/MERN-Stack-Hospital-Management-System-Web-Application)<br>
+3. ⭐ Starred [Cristiancano1236/sistema-parqueadero](https://github.com/Cristiancano1236/sistema-parqueadero)<br>
+4. ⭐ Starred [raulcastillabravo/mve-collection](https://github.com/raulcastillabravo/mve-collection)<br>
+5. ⭐ Starred [GinoRobla/proyectos-personales](https://github.com/GinoRobla/proyectos-personales)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
