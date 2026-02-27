@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GoutamHX/TrueCallCheck-Web](https://github.com/GoutamHX/TrueCallCheck-Web)<br>
-2. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
-3. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
-4. ⭐ Starred [raulcastillabravo/mve-collection](https://github.com/raulcastillabravo/mve-collection)<br>
-5. ⭐ Starred [Cristiancano1236/ECL-Fruver](https://github.com/Cristiancano1236/ECL-Fruver)<br>
+1. ⭐ Starred [bluuweb/api-notas-colaborativas](https://github.com/bluuweb/api-notas-colaborativas)<br>
+2. ⭐ Starred [GoutamHX/TrueCallCheck-Web](https://github.com/GoutamHX/TrueCallCheck-Web)<br>
+3. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+4. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
+5. ⭐ Starred [raulcastillabravo/mve-collection](https://github.com/raulcastillabravo/mve-collection)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
