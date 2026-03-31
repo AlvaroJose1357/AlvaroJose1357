@@ -18,10 +18,10 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [egdev6/react-boilerplate](https://github.com/egdev6/react-boilerplate)<br>
-2. ⭐ Starred [tiged/tiged](https://github.com/tiged/tiged)<br>
-3. ⭐ Starred [midudev/autoskills](https://github.com/midudev/autoskills)<br>
-4. ⭐ Starred [Dinesh-Sowndar/flutter_billing_app](https://github.com/Dinesh-Sowndar/flutter_billing_app)<br>
+1. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
+2. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy](https://github.com/AlvaroJose1357/Tracksy)<br>
+3. 💪 Opened PR [#1](undefined) in [AlvaroJose1357/Tracksy](https://github.com/AlvaroJose1357/Tracksy)<br>
+4. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy](https://github.com/AlvaroJose1357/Tracksy)<br>
 5. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
