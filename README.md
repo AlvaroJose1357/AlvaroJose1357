@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+1. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy](https://github.com/AlvaroJose1357/Tracksy)<br>
 2. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy](https://github.com/AlvaroJose1357/Tracksy)<br>
-3. 👍 Approved [#2](https://github.com/AlvaroJose1357/Tracksy/pull/2#pullrequestreview-4041536140) in [AlvaroJose1357/Tracksy](https://github.com/AlvaroJose1357/Tracksy)<br>
-4. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
-5. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy](https://github.com/AlvaroJose1357/Tracksy)<br>
+3. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
+4. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy](https://github.com/AlvaroJose1357/Tracksy)<br>
+5. 👍 Approved [#2](https://github.com/AlvaroJose1357/Tracksy/pull/2#pullrequestreview-4041536140) in [AlvaroJose1357/Tracksy](https://github.com/AlvaroJose1357/Tracksy)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
