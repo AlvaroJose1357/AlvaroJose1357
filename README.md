@@ -1,6 +1,16 @@
-<h1 align="center">¡Hi! I'm ALvaro Jose Ibarra Fernandez <a> <br> <img aling="center" width="120" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9vZWhxNXE0bHU3N2Jsd2s1NTR0ZmxtcXRjZGZhN3dnaHQzNW5lbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.webp" /> <img aling="left" width="100" height="100" src="https://media.tenor.com/thF-4X-idtEAAAAi/hack-hacker.gif" /><img aling="right" width="100" height="100" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif" /></a></h1>
+<h1 align="center">
+  ¡Hi! I'm Alvaro Jose Ibarra Fernandez <br>
 
-<h3 align="center"> Tecnólogo en sistemas | Junior Web Developer | Passionate About Cybersecurity, Robotics and IoT. </h3>
+  <p align="center">
+  <img width="100" src="https://media.tenor.com/thF-4X-idtEAAAAi/hack-hacker.gif">
+  <img width="100" src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif">
+  <img width="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9vZWhxNXE0bHU3N2Jsd2s1NTR0ZmxtcXRjZGZhN3dnaHQzNW5lbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.webp">
+</p>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FF00&center=true&vCenter=true&width=900&lines=Ingeniero+en+sistemas;Tecnólogo+en+sistemas;Web+Developer;Passionate+About+Cybersecurity,+Robotics+and+IoT">
+</p>
 
 # 💫 About Me:
 Apasionado por la programación y el desarrollo web, en busca de la optimización de soluciones tecnológicas, lo que ha fortalecido mi capacidad de análisis y resolución de problemas.<br>
