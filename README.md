@@ -18,11 +18,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
-2. 💪 Opened PR [#6](undefined) in [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
+1. ⭐ Starred [SofiDevO/sofi-scripts](https://github.com/SofiDevO/sofi-scripts)<br>
+2. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
 3. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
 4. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
-5. 💪 Opened PR [#1](undefined) in [DilnLemos/Tracksy_Back](https://github.com/DilnLemos/Tracksy_Back)<br>
+5. ⭐ Starred [afsh4ck/HackLabs](https://github.com/afsh4ck/HackLabs)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
