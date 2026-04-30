@@ -28,6 +28,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [SofiDevO/pantilla-astro](https://github.com/SofiDevO/pantilla-astro)<br>
+2. ⭐ Starred [drbarzaga/react-dojo](https://github.com/drbarzaga/react-dojo)<br>
+3. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/AlvaroJose1357](https://github.com/AlvaroJose1357/AlvaroJose1357)<br>
+4. ⭐ Starred [SofiDevO/sofi-scripts](https://github.com/SofiDevO/sofi-scripts)<br>
+5. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
