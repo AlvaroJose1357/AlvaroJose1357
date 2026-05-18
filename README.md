@@ -28,11 +28,6 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
-2. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
-3. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
-4. 💪 Opened PR [#16](undefined) in [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
-5. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/Tracksy_Front](https://github.com/AlvaroJose1357/Tracksy_Front)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
