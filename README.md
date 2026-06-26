@@ -28,6 +28,7 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [AlexielArdilla/el_manual_moderno_del_hacking_etico](https://github.com/AlexielArdilla/el_manual_moderno_del_hacking_etico)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
