@@ -28,7 +28,8 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning)<br>
+1. ⭐ Starred [JohanBoDev/mini-pruebas-fullstack](https://github.com/JohanBoDev/mini-pruebas-fullstack)<br>
+2. ⭐ Starred [Lets-DevOps/awesome-learning](https://github.com/Lets-DevOps/awesome-learning)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
