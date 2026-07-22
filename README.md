@@ -28,11 +28,11 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
-2. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
-3. ⭐ Starred [0xGF/boneyard](https://github.com/0xGF/boneyard)<br>
-4. ⭐ Starred [egdev6/rick-morty](https://github.com/egdev6/rick-morty)<br>
-5. ⭐ Starred [JohanBoDev/mini-pruebas-fullstack](https://github.com/JohanBoDev/mini-pruebas-fullstack)<br>
+1. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
+2. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/Vortex](https://github.com/SyntaxSquadOf/Vortex)<br>
+3. ❌ Closed PR [#17](undefined) in [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+4. ❌ Closed PR [#14](undefined) in [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
+5. ❌ Closed PR [#15](undefined) in [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
