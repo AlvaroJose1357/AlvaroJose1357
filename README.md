@@ -30,9 +30,6 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [JohanBoDev/mini-pruebas-fullstack](https://github.com/JohanBoDev/mini-pruebas-fullstack)<br>
 2. ⭐ Starred [afsh4ck/HackLabs](https://github.com/afsh4ck/HackLabs)<br>
-3. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [AlvaroJose1357/UpTask_Backend](https://github.com/AlvaroJose1357/UpTask_Backend)<br>
-5. ⬆️ Pushed undefined commit(s) to [SyntaxSquadOf/QuickStack](https://github.com/SyntaxSquadOf/QuickStack)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
