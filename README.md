@@ -30,9 +30,9 @@ Buscando un enfoque en la mejora continua y la innovación, esto me impulsa a ap
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [DilnLemos/dharma-website](https://github.com/DilnLemos/dharma-website)<br>
 2. ⬆️ Pushed undefined commit(s) to [DilnLemos/dharma-website](https://github.com/DilnLemos/dharma-website)<br>
-3. 💪 Opened PR [#4](undefined) in [DilnLemos/dharma-website](https://github.com/DilnLemos/dharma-website)<br>
+3. 💪 Opened PR [#7](undefined) in [DilnLemos/dharma-website](https://github.com/DilnLemos/dharma-website)<br>
 4. ⬆️ Pushed undefined commit(s) to [DilnLemos/dharma-website](https://github.com/DilnLemos/dharma-website)<br>
-5. ⬆️ Pushed undefined commit(s) to [DilnLemos/dharma-website](https://github.com/DilnLemos/dharma-website)<br>
+5. 💪 Opened PR [#6](undefined) in [DilnLemos/dharma-website](https://github.com/DilnLemos/dharma-website)<br>
 <!--RECENT_ACTIVITY:end-->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AlvaroJose1357/AlvaroJose1357/output/github-contribution-grid-snake-dark.svg" /> 
 <br/>
